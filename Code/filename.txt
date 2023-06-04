@@ -1,0 +1,3 @@
+Small Town, 2500
+Bigger Town, 5750
+Large Town, 14250
